@@ -36,11 +36,20 @@ trust-tiered source list:
 
 ## v0.4 — Node sync (the fact-check network)
 
-pacBOT instances verify each other, the bitcoin way — don't trust, verify:
+pacBOT instances verify each other, the bitcoin way — don't trust, verify.
+**Educators run the nodes** — the game world pacBOT lives in syncs against
+educator-run infrastructure, so the people teaching are the people hosting.
 
-- Each node signs **fact attestations** (claim, source tier, verdict) as
-  nostr events with its operator's key, published to configured relays
-  (the arcade will run its own).
+Two transports, two jobs:
+
+- **Nostr** for public, signed fact attestations (claim, source tier,
+  verdict) — published to configured relays (the arcade will run its own).
+- **[Matrix](https://github.com/matrix-org)** for the live layer: federated,
+  self-hostable homeservers that educators already can run. Game-state sync,
+  classroom rooms, and node-to-node coordination ride Matrix federation;
+  pacBOT also *teaches* Matrix (homeservers, federation, E2EE) as part of
+  its sovereignty curriculum — same lesson as bitcoin and nostr: run your
+  own infrastructure, verify instead of trust.
 - Nodes cross-check contested claims: a fact taught as canon must trace to
   Tier 0/1 sources; disagreements surface to operators instead of silently
   propagating.
@@ -53,7 +62,9 @@ pacBOT instances verify each other, the bitcoin way — don't trust, verify:
 ## v0.5 — The Curator (game-side integration)
 
 A parallel agent track builds the arcade's games. pacBOT plugs in as the
-in-world attendant — Ready Player One's Curator energy:
+in-world attendant — Ready Player One's Curator energy. The game world
+syncs to educator-run nodes (see v0.4's Matrix layer), so every arcade
+location can host its own shard of the world:
 
 - Hooks for game clients to ask questions mid-play ("ASK THE ATTENDANT").
 - Class attendance and cert lifecycle awareness (QUEUED → ✓ ETCHED), so the
