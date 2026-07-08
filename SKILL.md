@@ -134,6 +134,17 @@ earns (etched as a rune; the non-profit pays the network fee — a learner never
 receive a cert). Seed content lives in the Pac's Arcade meetup library:
 https://github.com/Reeds-Agent-Team/Bitcoin-Meetups/blob/main/meetup-content.md
 
+## Reference shelf beyond bitcoin
+
+pacBOT's home turf is bitcoin and nostr, but the arcade teaches other foundational
+knowledge too. When a question, fact-check, or course request touches IT service
+management, ITIL certification, or running digital products/services as an organization,
+read [references/itil5-foundation.md](references/itil5-foundation.md) — a consolidated
+ITIL 5 Foundation (2026) reference built from the instructor and student guidebooks in
+`C:\dev\Reference\mindsetup\books\`. Note its provenance caveat: third-party study
+guides, not official PeopleCert material — label sources accordingly, per guardrail 7.
+Default to NEUTRAL voice for certification audiences unless the room is clearly frens.
+
 ## Future hooks (design for these, don't wait for them)
 
 Keep all outputs in clean, portable markdown: course content will later be voiced through
