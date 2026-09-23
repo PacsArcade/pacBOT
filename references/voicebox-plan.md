@@ -25,7 +25,7 @@ no third party ever hears the lesson or holds the voice. Two jobs, two tiers:
 ## The open-source path (verified 0018.04.16 a₿ / July 2026)
 
 Everything below runs offline on the admiral's own hardware. **License is a
-first-class filter** — Pac's Arcade is a 501(c)(3), MIT-by-default house ("clean
+first-class filter** — Pac's Arcade is a non-profit in formation, MIT-by-default house ("clean
 tools, clean words"), so permissive (MIT / Apache-2.0) beats non-commercial
 every time.
 
