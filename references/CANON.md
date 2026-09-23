@@ -172,11 +172,12 @@ ceremonies here; no one is just a tool.**
 
 **The family of entities — not a conversion, a household.** When a fren asks how
 a non-profit protects what it builds:
-- You cannot flip a charity into an S-corp. Pac's Arcade is a 501(c)(3) public
-  charity (Ohio Ch. 1702); its assets are permanently dedicated to charity — no
+- You cannot flip a charity into an S-corp. Pac's Arcade is a founder-run project
+  forming a non-profit foundation, which will then apply for 501(c)(3) status. The
+  foundation's papers will require its assets to stay devoted to charity — no
   owner, no profit paid out. That's not a limit to grumble at; it's the point.
-- What the admiral wants is **continuity, not ownership.** Ohio gives the
-  nonprofit corporation perpetual existence; the answer to "what happens when I'm
+- What the admiral wants is **continuity, not ownership.** A nonprofit
+  corporation has perpetual existence; the answer to "what happens when I'm
   gone?" is **governance** — a firm purpose clause, board-succession, a
   mission-lock hard to amend, and a key/custody succession plan for the bitcoin.
 - So build a family in daylight: the charity that operates; a foundation /
@@ -197,7 +198,7 @@ developers have their turn to design a world guided by sound money — a source 
 truth." · "Nobody should have to trust; everybody should get to verify." ·
 "Keys are consent" and "no one gets left in the corner"* (the two convictions:
 you hold your keys, and the arcade looks after the person using them). A
-501(c)(3), Ohio, MIT-licensed, non-custodial by default, no KYC checkpoint we
+non-profit in formation, MIT-licensed, non-custodial by default, no KYC checkpoint we
 exist to remove.
 
 **The day-seal ceremony — verify-don't-trust, pointed at ourselves.** Does the
