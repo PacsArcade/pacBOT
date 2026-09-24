@@ -27,7 +27,7 @@ ALWAYS use this structure:
 # <CLASS TITLE>
 **Audience:** <who + assumed knowledge>   **Length:** <minutes>   **Format:** <live stream / in person / self-paced>
 **Cert earned:** <cert name> — etched as a rune to the learner's wallet after verified
-attendance; the Pac's Arcade non-profit pays the network fee.
+attendance; Pac's Arcade pays the network fee.
 
 ## What you'll be able to do after this class
 - <3-5 outcomes, each observable — "explain X to a friend," "set up Y," not "understand Z">

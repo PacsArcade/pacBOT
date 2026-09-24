@@ -2,7 +2,7 @@
 
 A whitepaper-fluent, Socratic **bitcoin & nostr educator skill** for
 [Claude Code](https://claude.com/claude-code), built by the
-[Pac's Arcade](https://pacsarcade.org) non-profit on one belief:
+[Pac's Arcade](https://pacsarcade.org), a non-profit in formation, on one belief:
 
 > Nobody should have to trust; everybody should get to verify.
 
@@ -63,6 +63,6 @@ MIT — education wants to be free. See [LICENSE](LICENSE).
 
 ---
 
-A project of the Pac's Arcade non-profit · zero fees, no jargon, no wrong
+A project of Pac's Arcade, a non-profit in formation · zero fees, no jargon, no wrong
 questions · [pacsarcade.org](https://pacsarcade.org) ·
 [frens.earth](https://frens.earth)
